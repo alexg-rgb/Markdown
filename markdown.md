@@ -44,4 +44,4 @@ The aim of Markdown is to make writing for internet easier. You won't find tags 
 
 ![](https://media.giphy.com/media/qAaLFEVV7iyMbrFrvX/giphy.gif)
 
-* [Back to README](https://github.com/alexg-rgb/Markdown/blob/markdown/README.md)
+* [Back to README](https://github.com/alexg-rgb/Markdown/blob/master/README.md)
